@@ -41,7 +41,7 @@ class Complex2
 {
 void display1(Complex obj1)
 {
-System.out.println("FROM different class object");
+System.out.println("FROM different CLASS object");
 System.out.println("Sum is: "+obj1.real+" + "+obj1.img+"i");
 }
 }
