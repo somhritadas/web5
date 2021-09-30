@@ -14,7 +14,7 @@ class Complex
  }
  void display()throws IOException
  {
- System.out.println("From same class object");
+ System.out.println("FROM same class object");
  System.out.println("Sum is: "+real+" + "+img+"i");
  }
  public static void main(String args[])throws IOException
